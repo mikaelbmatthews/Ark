@@ -1,0 +1,12 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/MDinos/MVeilwyn/MMalwyn.MMalwyn_C",
+      "toClass": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP"
+    },
+    {
+      "fromClass": "/MDinos/MVeilwyn/MSolwyn.MSolwyn_C",
+      "toClass": "/ShadsCritterReworks/Content/Solwyn/AngelFox_Character_BP_Shad.AngelFox_Character_BP_Shad_C"
+    }
+  ]
+}
